@@ -2,8 +2,7 @@
 
 [X](https://x.com/lucasxreed) · [LinkedIn](https://www.linkedin.com/in/lucaskreed)
 
-CS freshman at Iowa State, from the midwest.
+CS freshman at Iowa State, from the Midwest.
 
-designing and building iOS apps, web apps, and interactive experiences in my freetime :)
+Designing and building iOS apps, web apps, and interactive experiences in my free time :)
 
-Prev. freelance UX/UI designer & developer since I was 14
